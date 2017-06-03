@@ -1,0 +1,17 @@
+{
+  "name": "timedata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echarts": "^3.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.27"
+  }
+}
